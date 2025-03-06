@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TreasureDino</string>
+    <string name="titulo">Treasure Dino</string>
+    <string name="btn_start">Iniciar Juego</string>
+    <string name="btn_restart">Jugar de Nuevo</string>
+
+</resources>
